@@ -1,0 +1,5 @@
+train: /kaggle/input/rice-leaf-diseases/rfd/train
+val: /kaggle/input/rice-leaf-diseases/rfd/valid
+
+nc: 4
+names: ['bacterialblight', 'blast', 'brownspot', 'tungro']
